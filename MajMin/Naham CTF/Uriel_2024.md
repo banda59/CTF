@@ -61,8 +61,9 @@ Python의 'urllib.parse'는 위와같이 입력해서 디코딩된 문자열을 
 이제 결과값으로 출력된 해당 문구를 다시한번 디코딩해줄 것이다.   
  
  <br><br><br>
- 
+
 #### 두 번째 디코딩
+
 <br><br>
 
 ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/d1930636-4eb4-4b7d-bc26-e532a90e863d)
