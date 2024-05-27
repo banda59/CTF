@@ -6,14 +6,11 @@ NahamCon CTF 2024. QRRRRRRRR
 
 
 ***
-<br><br>
-
 # 핵심 KEY.🔑 
 기본 QR코드의 구성 형태를 알아본다.
 다양한 형태의 QR코드를 알아보고 이를 스캔할 수 있는 방법을 탐색한다.  
 <br><br><br>
 ***
- <br>
 # WRITEUP.🔒 
  <br><br>
  ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/26d03e75-0621-4483-9404-ef6a6af9b204)
