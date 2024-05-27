@@ -1,5 +1,8 @@
 NahamCon CTF 2024 - Uriel
 ============
+<dr>
+
+***
 
 # 핵심 KEY 🔑 
 URL 인토딩된 문자를 이중 디코딩하는 방식을 이해한다.   
@@ -12,6 +15,7 @@ url 인코딩은, 안전하지 않은 ASCII나 URL에 포함될 수 없는 특�
 url인코딩의 변환 방식은 각 문자를 % 기호와 함께, 뒤에 두 자리를 16진수로 표현할 수 있다.   
 ```
  <br><br><br>
+***
 # WRITEUP 🔒 
  <br><br>
  ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/a2a6a772-3cc1-46d5-8e84-a5b07cb65632)
@@ -35,8 +39,8 @@ print(decoded_str)
 Python의 'urllib.parse'는 위와같이 입력해서 디코딩된 문자열을 print할 수 있는 방식이다.   
 파이썬 뿐만 아니라 자바스트립트, PHP 에서도 사용할 수 있다.   
  <br><br><br><br>
- 
- ---
+
+***
  
 #### 첫 번째 디코딩
 <br><br>
