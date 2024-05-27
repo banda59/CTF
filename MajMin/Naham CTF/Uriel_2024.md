@@ -42,7 +42,7 @@ Python의 'urllib.parse'는 위와같이 입력해서 디코딩된 문자열을 
 
 ***
  
-#### 첫 번째 디코딩
+## 첫 번째 디코딩
 <br><br>
 ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/8cb0f01f-924f-4a0d-82bf-a05d637173e5)
 <br>
@@ -62,7 +62,7 @@ Python의 'urllib.parse'는 위와같이 입력해서 디코딩된 문자열을 
  
  <br><br><br>
 
-#### 두 번째 디코딩
+## 두 번째 디코딩
 
 <br><br>
 
