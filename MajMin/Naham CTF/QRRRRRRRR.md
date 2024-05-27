@@ -54,10 +54,8 @@ flag{a44557e380e3baae9c21c738664c6142}
 <br>
 ANY CODE를 누른 후 스캔해보니 해당 내용을 확인할 수 있었다.
  <br><br>
- 
-![image](https://github.com/banda59/CTF/assets/165415245/d6ed54bb-f095-46a5-a629-063b691693a8)
-
-
+ 
+![image](https://github.com/banda59/CTF/assets/165415245/c15604f2-fc9f-457c-a489-a8f56593ff70)
  <br><br><br>
 플래그를 입력하면 Success 문구가 뜨며 정상적으로 제출이 된다.   
 <br>
