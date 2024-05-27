@@ -22,7 +22,8 @@ environment variable (환경 변수)에 관련된 내용을 숙지해야함을 �
 <br/>
 <br/>
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcfPT9h%2FbtsHDePxvhO%2FSmQiCP1n0kLOSucDkJ4La1%2Fimg.png)
+![image](https://github.com/banda59/CTF/assets/165415245/96d7a8ed-8838-43d8-9d99-a5e99f39699a)
+
 <br/>
 <br/>
   
