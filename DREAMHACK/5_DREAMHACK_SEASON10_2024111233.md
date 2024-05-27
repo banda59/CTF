@@ -5,7 +5,9 @@
 #### 핵심) 셸 및 환경 변수의 이해  
 <br/>
 <br/>
-![image](https://github.com/banda59/CTF/assets/165415245/eda6eef3-0d09-4d43-ad47-406e863dc19e)
+
+
+![image](https://github.com/banda59/CTF/assets/165415245/911bcf1e-ff3e-4a11-8e56-a96eb59e8588)
 
 <br/>
 <br/>
