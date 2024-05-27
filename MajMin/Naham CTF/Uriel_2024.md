@@ -38,11 +38,11 @@ print(decoded_str)
 <br>
 Python의 'urllib.parse'는 위와같이 입력해서 디코딩된 문자열을 print할 수 있는 방식이다.   
 파이썬 뿐만 아니라 자바스트립트, PHP 에서도 사용할 수 있다.   
- <br><br><br><br>
+ <br><br><br><br>  <dr>
+ <dr>
 
 ***
-  <dr>
- <dr>
+
 
 ## 첫 번째 디코딩
 <br><br>
