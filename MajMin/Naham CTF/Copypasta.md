@@ -1,4 +1,4 @@
-![image](https://github.com/banda59/CTF/assets/165415245/16a2ed35-713c-4ec2-9c2f-c0abcbc55c45)![image](https://github.com/banda59/CTF/assets/165415245/bbc60427-eb9f-42a3-bbbc-d2460e0702e6)NahamCon CTF 2024. QRRRRRRRR
+NahamCon CTF 2024. QRRRRRRRR
 ============================
 <br><br>
  ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/67c8242b-2f61-4c2a-baf3-88bd5018a559)
