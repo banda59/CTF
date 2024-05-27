@@ -40,9 +40,11 @@ NahamCon CTF 2024. QRRRRRRRR
 하지만 해당 QR code는 일반적인 코드 스캐너나 카메라로 인식이 불가했는데,   
 SCANDIT app이 이를 지원한다고 해서 이 어플리케이션을 설치했다.
  <br><br>
-![image](https://github.com/banda59/CTF/assets/165415245/52bbe039-324b-46fa-a875-d1b23bcf4c96)
+![image](https://github.com/banda59/CTF/assets/165415245/516f9c09-b9c9-46de-b927-006d2d3db22a)
 
-![image](https://github.com/banda59/CTF/assets/165415245/63ed1057-a147-44dc-907c-3dd0d2085e2b)
+
+![image](https://github.com/banda59/CTF/assets/165415245/5bfde858-8b54-4741-9ab2-610a0182ff41)
+
 
 
  <br><br><br>
