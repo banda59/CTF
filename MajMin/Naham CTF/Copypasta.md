@@ -55,7 +55,8 @@ flag{a44557e380e3baae9c21c738664c6142}
 ANY CODE를 누른 후 스캔해보니 해당 내용을 확인할 수 있었다.
  <br><br>
  
-![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/56d590e9-b95d-4fb7-8db1-45e5e3328020)
+![image](https://github.com/banda59/CTF/assets/165415245/d6ed54bb-f095-46a5-a629-063b691693a8)
+
 
  <br><br><br>
 플래그를 입력하면 Success 문구가 뜨며 정상적으로 제출이 된다.   
