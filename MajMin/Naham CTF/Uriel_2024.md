@@ -72,6 +72,9 @@ flag{8efeb66a719b75a4b7c634d885788dfc}
 flag를 알아냈다.
  
 <br>
+![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/cbf8a413-0038-4d89-8bdd-f9a3d71d7b1e)
+<br>
+<br>
 
 붙여넣으면 Success 문구가 뜨며 성공한다.   
 ###### 성공!
