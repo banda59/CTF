@@ -2,6 +2,10 @@ NahamCon CTF 2024 - Copypasta 
 =======================
 ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/e7403ef0-ebd9-406f-aa75-563b31b085e8)
 
+ <dr>
+ <dr>
+***
+
 # 핵심 KEY 🔑 
 #### 리눅스(Linux)의 Netcat(nc) 명령어를 이해한다.    
  <dr> <dr>
