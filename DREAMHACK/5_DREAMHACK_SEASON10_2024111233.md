@@ -5,7 +5,8 @@
 #### 핵심) 셸 및 환경 변수의 이해  
 <br/>
 <br/>
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLrnBf%2FbtsHCrvddAZ%2FL59BrKuxv7zhbWmkT4XsgK%2Fimg.png)
+![image](https://github.com/banda59/CTF/assets/165415245/eda6eef3-0d09-4d43-ad47-406e863dc19e)
+
 <br/>
 <br/>
 HxD로 파일을 decode 해보니 .ELF파일이라는 것을 알 수 있었다.
