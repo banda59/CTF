@@ -1,7 +1,7 @@
 🔒DREAMHACK SEASON #10
 ==================
 
-
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLrnBf%2FbtsHCrvddAZ%2FL59BrKuxv7zhbWmkT4XsgK%2Fimg.png)
 HxD로 파일을 decode 해보니 .ELF파일이라는 것을 알 수 있었다.
 kali linux에서 실행을 해주어야할 것 같다.
  
