@@ -1,5 +1,7 @@
 NahamCon CTF 2024 - Uriel
 ============
+![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/6dedaa69-be1a-4e52-94b3-62c67829c315)
+
 <dr>
 
 ***
@@ -81,9 +83,10 @@ Python의 'urllib.parse'는 위와같이 입력해서 디코딩된 문자열을 
 flag{8efeb66a719b75a4b7c634d885788dfc}
 ```
  <br><br><br>
-flag를 알아냈다.
+### flag를 알아냈다.
  
-<br>
+<br>  <dr>
+ <dr>
 ![img1 daumcdn](https://github.com/banda59/CTF/assets/165415245/cbf8a413-0038-4d89-8bdd-f9a3d71d7b1e)
 <br>
 <br>
