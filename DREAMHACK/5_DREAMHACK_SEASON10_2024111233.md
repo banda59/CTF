@@ -22,11 +22,11 @@ environment variable (환경 변수)에 관련된 내용을 숙지해야함을 �
 <br/>
 <br/>
 
-![image](https://github.com/banda59/CTF/assets/165415245/96d7a8ed-8838-43d8-9d99-a5e99f39699a)
+![image](https://github.com/banda59/CTF/assets/165415245/f165e689-dd43-47cf-80b2-78855449ee48)
+
 
 <br/>
 <br/>
-  
 HxD에도 이런 부분을 확인할 수 있다.  
 <br/>
 <br/>
