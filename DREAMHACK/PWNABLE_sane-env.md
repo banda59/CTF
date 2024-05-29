@@ -84,6 +84,20 @@ IDA 디컴파일을 통해 구문을 직접 해석해보아야할 것 같은데 
 set environment variable에 어떤 값을 입력하면 ~/flag 값에 접근할 수 있을지 궁금하다.
 <br/>
 <br/>
+
+![image](https://github.com/banda59/CTF/assets/165415245/df496338-e258-46b4-a4dd-a43e2913c4a7)
+<br>
+추가로 gdb에도 접근을 하는 방법을 탐색해보았다.   
+<br>
+<br>
+
+![image](https://github.com/banda59/CTF/assets/165415245/749a0009-dcd5-4645-b1d8-5de917aff39f)
+<dr>
+disas flag를 해보았지만, 여전히 스택할당 방식을 잘 모르기 때문에 해석이 어려울 것 같다.   
+나중에 조금 더 공부해보아야겠다.   
+<dr>
+<dr>
+<dr>
   
 ```
 알게된 사실
